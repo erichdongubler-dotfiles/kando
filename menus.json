@@ -1,0 +1,26 @@
+{
+  "menus": [
+    {
+      "nodes": {
+        "type": "submenu",
+        "name": "Mouse button: utility",
+        "icon": "open_with",
+        "iconTheme": "material-symbols-rounded",
+        "children": [
+          {
+            "type": "hotkey",
+            "data": {
+              "hotkey": "Meta+H",
+              "delayed": true
+            },
+            "name": "Windows Speak",
+            "icon": "mic",
+            "iconTheme": "material-symbols-rounded"
+          }
+        ]
+      },
+      "shortcut": "Control+Alt+Space",
+      "centered": false
+    }
+  ]
+}
