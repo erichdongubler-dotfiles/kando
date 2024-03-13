@@ -16,6 +16,33 @@
             "name": "Windows Speak",
             "icon": "mic",
             "iconTheme": "material-symbols-rounded"
+          },
+          {
+            "type": "hotkey",
+            "data": {
+              "hotkey": "Control+Meta+ArrowRight"
+            },
+            "name": "Next Windows desktop",
+            "icon": "arrow_forward",
+            "iconTheme": "material-symbols-rounded"
+          },
+          {
+            "type": "hotkey",
+            "data": {
+              "hotkey": "Meta+Tab"
+            },
+            "name": "Task view",
+            "icon": "select_window",
+            "iconTheme": "material-symbols-rounded"
+          },
+          {
+            "type": "hotkey",
+            "data": {
+              "hotkey": "Control+Meta+ArrowLeft"
+            },
+            "name": "Previous Windows desktop",
+            "icon": "arrow_back",
+            "iconTheme": "material-symbols-rounded"
           }
         ]
       },
